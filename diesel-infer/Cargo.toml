@@ -1,0 +1,6 @@
+[package]
+name = "diesel-infer"
+version = "0.1.0"
+authors = ["wangsijie <wangsijie@bytedance.com>"]
+
+[dependencies]

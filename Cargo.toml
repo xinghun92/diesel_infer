@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "diesel-infer",
+    "diesel-infer-codegen",
+    "diesel-infer-tests",
+]

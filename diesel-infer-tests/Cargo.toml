@@ -1,0 +1,8 @@
+[package]
+name = "diesel-infer-tests"
+version = "0.1.0"
+authors = ["wangsijie <wangsijie@bytedance.com>"]
+
+[dependencies]
+diesel-infer = { path = "../diesel-infer" }
+diesel-infer-codegen = { path = "../diesel-infer-codegen" }

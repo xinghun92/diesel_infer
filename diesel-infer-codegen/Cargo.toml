@@ -1,0 +1,11 @@
+[package]
+name = "diesel-infer-codegen"
+version = "0.1.0"
+authors = ["wangsijie <wangsijie@bytedance.com>"]
+
+[dependencies]
+syn = "0.11.11"
+quote = "0.3.5"
+
+[lib]
+proc-macro = true
